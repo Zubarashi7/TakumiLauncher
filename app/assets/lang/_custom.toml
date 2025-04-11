@@ -1,20 +1,20 @@
 # Custom Language File for Launcher Customizer
 
 [ejs.app]
-title = "Helios Launcher"
+title = "TakumiLauncher"
 
 [ejs.landing]
-mediaGitHubURL = "https://github.com/dscalzi/HeliosLauncher"
-mediaXURL = "#"
-mediaInstagramURL = "#"
-mediaYouTubeURL = "#"
+mediaGitHubURL = "https://github.com/Zubarashi7/TakumiLauncher"
+mediaXURL = "https://x.com/TakumiLabs"
+mediaInstagramURL = "https://www.instagram.com/takumilabs/"
+mediaYouTubeURL = "https://www.youtube.com/channel/UCsTDent9oehbOlL5hWFd1bg"
 mediaDiscordURL = "https://discord.gg/zNWUXdt"
 
 [ejs.settings]
-sourceGithubLink = "https://github.com/dscalZi/HeliosLauncher"
-supportLink = "https://github.com/dscalZi/HeliosLauncher/issues"
+sourceGithubLink = "https://github.com/Zubarashi7/TakumiLauncher"
+supportLink = "https://github.com/Zubarashi7/TakumiLauncher/issues"
 
 [ejs.welcome]
-welcomeHeader = "WELCOME TO WESTEROSCRAFT"
-welcomeDescription = "Our mission is to recreate the universe imagined by author George RR Martin in his fantasy series, A Song of Ice and Fire.  Through the collaborative effort of thousands of community members, we have sought to create Westeros as accurately and precisely as possible within Minecraft.  The world we are creating is yours to explore.  Journey from Dorne to Castle Black, and if you aren’t afraid, beyond the Wall itself, but best not delay.  As the words of House Stark ominously warn: Winter is Coming."
-welcomeDescCTA = "You are just a few clicks away from Westeros."
+welcomeHeader = "Bienvenido a TakumiLauncher"
+welcomeDescription = "Nuestro launcher está diseñado para transformar la experiencia de los jugadores con juegos creados o inspirados en Minecraft, ofreciendo una plataforma intuitiva, eficiente y cargada de creatividad, que permite descubrir mundos personalizados, descargar actualizaciones con facilidad y disfrutar de un rendimiento optimizado, mientras conectas con una comunidad vibrante de jugadores apasionados por este universo único."
+welcomeDescCTA = "¡Empieza tu aventura hoy!"
